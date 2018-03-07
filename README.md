@@ -1,2 +1,3 @@
 # learningtocode
-# learningtocode
+ Learning to fucking code.
+ 
